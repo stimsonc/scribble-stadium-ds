@@ -1,3 +1,14 @@
+## CARL STIMSON - CONTRIBUTIONS:
+
+This is an EdTech start up I worked at for as part of the data science course at Bloom Institute of Technology. 
+
+My contributions can be found mainly in the `/app/api` directory under [this commit](https://github.com/stimsonc/scribble-stadium-ds/commit/e6091d207fd0f82d41c2c21a79816e520a1cdd4b) and in the `/data_management/autopreprocess_testing` directory under [this commit](https://github.com/stimsonc/scribble-stadium-ds/commit/d9d8c85c8c729fe9ac48954aa1529e160e58e446).
+
+
+-----------------------
+### ORIGINAL REPO README:
+-----------------------
+
 ## Story Squad, Team B - Data Science
 [![Maintainability](https://api.codeclimate.com/v1/badges/146d9feb7549b988077a/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/146d9feb7549b988077a/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB/test_coverage)
